@@ -7,7 +7,7 @@ Eğitimlerim sırasında:
 
 - 🔭 HTML, CSS, JavaScript, React, TypeScript, Next.js gibi modern teknolojilerle çalıştım.
 
-- 🌱 Python ve Data Science üzerine uzmanlaşarak veri analizi ve işlenmesi konularında deneyim kazandım.
+- 🌱 Python ve Data Science üzerine sertifikalı eğitimler aldım ve veri analizi ve işlenmesi konularında deneyim kazandım.
 
 - 🎯 React Front-end, React Native Mobil, Node.js Back-end, Python, ve Google SEO eğitimleri aldım ve deneyim kazandım.
 
