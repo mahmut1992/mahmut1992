@@ -1,26 +1,25 @@
 🚀 Full-Stack Developer | React, Node.js, React Native, Python, Google SEO & Data Science Enthusiast
 
-Merhaba! Ben Mahmut Fırat, 2019 yılından itibaren web geliştirme ve veri bilimi alanlarında kendini geliştirmeye devam eden bir yazılım geliştiricisiyim.
+Hello! I am Mahmut Fırat, I am a software developer who has been continuing to improve himself in the fields of web development and data science since 2019.
 
-Eğitimlerim sırasında:
+During my training:
 
 
-- 🔭 HTML, CSS, JavaScript, React, TypeScript, Next.js gibi modern teknolojilerle çalıştım.
+- 🔭 I worked with modern technologies such as HTML, CSS, JavaScript, React, TypeScript, Next.js.
 
-- 🌱 Python ve Data Science üzerine sertifikalı eğitimler aldım ve veri analizi ve işlenmesi konularında deneyim kazandım.
+- 🌱 I received certified training on Python and Data Science and gained experience in data analysis and processing.
 
-- 🎯 React Front-end, React Native Mobil, Node.js Back-end, Python, ve Google SEO eğitimleri aldım ve deneyim kazandım.
+- 🎯 I received React Front-end, React Native Mobile, Node.js Back-end, Python, and Google SEO training and gained experience.
 
-- 👯 Git/GitHub, Bootstrap, Jenkins, Agile, Testing, Swagger, MVC/MVVM, Sass/SCSS gibi araçlarla projeler geliştirdim.
+- 👯 I developed projects with tools such as Git/GitHub, Bootstrap, Jenkins, Agile, Testing, Swagger, MVC/MVVM, Sass/SCSS.
 
-- 🤔Google SEO ile web sitelerinin arama motoru performansını artırma becerileri edindim.
+- 🤔I gained skills to increase the search engine performance of websites with Google SEO.
 
-- 💡 Yazılım geliştirme süreçlerinde modern teknolojileri ve en iyi uygulamaları kullanıyorum.
+- 💡 I use modern technologies and best practices in software development processes.
 
-- 🌍 Hedefim: Teknolojiyle dünyayı daha iyi bir yer haline getiren projelere katkı sağlamak.
+- 🌍 My goal: To contribute to projects that make the world a better place with technology.
 
-- 💬 Projelerimi keşfedin ve iş birliği için iletişime geçmekten çekinmeyin! 😊
-
+- 💬 Discover my projects and feel free to contact for collaboration! 😊
   
 
 
