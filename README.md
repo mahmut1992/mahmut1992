@@ -1,13 +1,13 @@
-🚀 Full-Stack Developer | React, Node.js, React Native, Python, Google SEO & Data Science Enthusiast
+🚀 Full-Stack Developer | React, Node.js, React Native,JavaScript, TypeScript
 
-Hello! I am Mahmut Fırat, I am a software developer who has been continuing to improve himself in the fields of web development and data science since 2019.
+Hello! I am Mahmut Fırat, I am a software developer who has been continuing to improve himself in the fields of web development  since 2019.
 
 During my training:
 
 
-- 🔭 I worked with modern technologies such as HTML, CSS, JavaScript, React, TypeScript, Next.js.
+- 🔭 I worked with modern technologies such as HTML, CSS, JavaScript, React, TypeScript, Next.js, React Native and NodeJs.
 
-- 🎯 I received React Front-end, React Native Mobile, Node.js Back-end, Python, and Google SEO training and gained experience.
+- 🎯 I received React Front-end, React Native Mobile, Node.js Back-end.
 
 - 👯 I developed projects with tools such as Git/GitHub, Bootstrap, Jenkins, Agile, Testing, Swagger, MVC/MVVM, Sass/SCSS.
 
